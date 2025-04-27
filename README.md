@@ -10,8 +10,8 @@ This module focuses **purely on visual assets** — no stat blocks, no lore writ
 ---
 
 ## **Contents**
-- **1,600+ dynamic ring tokens** (clean silhouette, modular design)  
-- **800+ red-ring tokens** (Token Stamp–style)  
+- **1,600+ dynamic ring tokens** 
+- **800+ red-ring tokens** 
 - **2000+ matching portrait images**  
 - Minimal overlap between dynamic and red-ring styles  
 - Broad coverage across creature types, humanoids, beasts, monsters, and NPCs
