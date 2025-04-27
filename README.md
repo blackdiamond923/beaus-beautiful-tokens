@@ -21,14 +21,15 @@ This module focuses **purely on visual assets** — no stat blocks, no lore writ
 ---
 
 ## **Usage**  
-- Tokens are organized for ease of browsing inside the file browser.    
+- Tokens are organized for ease of browsing inside the File Picker.    
 - Portrait images are matched to tokens where possible, making quick character creation easier.  
 - Ideal for DMs looking to quickly populate battle maps, generate NPCs, or customize their actors.
+- Token Variant Art Helps with swapping token images easier. 
 
 ---
 
 ## **Why I Made This**  
-I had built up a massive personal library of token art to speed up my own prep time — swapping images, setting variations, matching battle and portrait styles. I realized others could benefit from this as well, especially for faster world-building or improvisational GMing.
+I had built up a  personal library of token art to and I realized others could hopefully benefit from this as well.
 
 ---
 
@@ -41,6 +42,5 @@ I had built up a massive personal library of token art to speed up my own prep t
 
 ## **Questions or Feedback?**  
 Feel free to reach out if you have questions, concerns, or suggestions for improvement. 
-Absolutely — here's a clean, professional **README** you can drop into your GitHub repo for your Foundry module:
 
 ---
