@@ -1,0 +1,12 @@
+{
+  "id": "beaus-beautiful-tokens",
+  "title": "Beau's Beautiful Tokens",
+  "version": "1.0.0",
+  "manifest": "https://github.com/blackdiamond923/beaus-beautiful-tokens/releases/latest/download/module.json",
+  "download": "https://github.com/blackdiamond923/beaus-beautiful-tokens/download/1.0.0/module.zip",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "A token and portrait collection for Foundry VTT featuring over 1,600 dynamic ring tokens, nearly 800 classic red-ring tokens, and more than 3,800 matching portrait images. \n\nThere is some overlap between sets, but each group has been curated for versatility across campaigns. I originally made these for my own games, but I figured others might find them useful too.\n\nIf you have any questions, suggestions, or run into issues, feel free to reach out. Happy gaming."
+}
