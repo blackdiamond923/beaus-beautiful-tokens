@@ -19,8 +19,7 @@ This module focuses **purely on visual assets** — no stat blocks, no lore writ
 ---
 
 ## **Usage**  
-- Tokens are organized for ease of browsing inside the file browser.  
-- Use **Token Variant Art** to dynamically swap token art for actors in your world.  
+- Tokens are organized for ease of browsing inside the file browser.    
 - Portrait images are matched to tokens where possible, making quick character creation easier.  
 - Ideal for DMs looking to quickly populate battle maps, generate NPCs, or customize their actors.
 
