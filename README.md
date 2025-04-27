@@ -1,3 +1,5 @@
+# **Beau’s Beautiful Tokens**  
+
 A  visual art collection for Foundry VTT, built to enhance your games with thousands of dynamic tokens and portraits.
 
 ---
@@ -39,3 +41,6 @@ I had built up a massive personal library of token art to speed up my own prep t
 
 ## **Questions or Feedback?**  
 Feel free to reach out if you have questions, concerns, or suggestions for improvement. 
+Absolutely — here's a clean, professional **README** you can drop into your GitHub repo for your Foundry module:
+
+---
