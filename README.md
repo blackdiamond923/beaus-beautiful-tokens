@@ -1,11 +1,11 @@
 # **Beau’s Beautiful Tokens**  
 ![2025-04-27](https://github.com/user-attachments/assets/5d743c35-f2cb-4c53-a098-1b8249592237)
-A  visual art collection for Foundry VTT, built to enhance your games with thousands of dynamic tokens and portraits.
+A  visual art collection for Foundry VTT, built to enhance your games with dynamic tokens and portraits.
 
 ---
 
 ## **About This Module**  
-This is art I originally created for personal use across dozens of campaigns. I've packaged it here for others who might find it useful for their games or storytelling.  
+This is art I originally created for personal use across my games. I've packaged it here for others who might find it useful for their games or storytelling.  
 
 This module focuses **purely on visual assets** — no stat blocks, no lore writeups — just a clean, extensive library of ready-to-use tokens and portraits.
 
@@ -15,7 +15,6 @@ This module focuses **purely on visual assets** — no stat blocks, no lore writ
 - **1,600+ dynamic ring tokens** 
 - **750+ red-ring tokens** 
 - **2000+ matching portrait images**  
-- Minimal overlap between dynamic and red-ring styles  
 - Broad coverage across creature types, humanoids, beasts, monsters, and NPCs
 
 ---
@@ -23,13 +22,7 @@ This module focuses **purely on visual assets** — no stat blocks, no lore writ
 ## **Usage**  
 - Tokens are organized for ease of browsing inside the File Picker.    
 - Portrait images are matched to tokens where possible, making quick character creation easier.  
-- Ideal for DMs looking to quickly populate battle maps, generate NPCs, or customize their actors.
 - Token Variant Art Helps with swapping token images easier. 
-
----
-
-## **Why I Made This**  
-I had built up a  personal library of token art to and I realized others could hopefully benefit from this as well.
 
 ---
 
@@ -45,4 +38,5 @@ Feel free to reach out if you have questions, concerns, or suggestions for impro
 
 ---
 
-
+## Sizing
+- The dynamic rings when in Standard Fit mode genereally fit at a 1.2 scale and a subject texture of 1. Some fit with 2.4 and a subject scale of 2. 
