@@ -32,11 +32,14 @@ This module focuses **purely on visual assets** — no stat blocks, no lore writ
 - I will update the module occasionally if I create large batches of new tokens.
 
 ---
+## Sizing
+- The dynamic rings when in Standard Fit mode genereally fit at a 1.2 scale and a subject texture of 1. Some fit with 2.4 and a subject scale of 2. 
+
+---
 
 ## **Questions or Feedback?**  
 Feel free to reach out if you have questions, concerns, or suggestions for improvement. 
 
 ---
 
-## Sizing
-- The dynamic rings when in Standard Fit mode genereally fit at a 1.2 scale and a subject texture of 1. Some fit with 2.4 and a subject scale of 2. 
+
