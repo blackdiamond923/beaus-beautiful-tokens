@@ -38,8 +38,9 @@ This module focuses **purely on visual assets** — no stat blocks, no lore writ
 ---
 
 ## **Questions or Feedback?**  
-Feel free to reach out if you have questions, concerns, or suggestions for improvement. 
-
+- Feel free to reach out if you have questions, concerns, or suggestions for improvement.
+- I make these tokens using the PSD from [Foundry VTT](<https://discord.com/channels/170995199584108546/1184176344276406292/1245876103113867294>). 
+- Here is a video showing my [Amateur Hour Way](<https://www.youtube.com/live/8lmlVwc85XA?si=B7kdDTIXSBXxAbC6>) of making tokens. 
 ---
 
 
