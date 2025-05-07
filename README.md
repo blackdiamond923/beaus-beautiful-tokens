@@ -23,7 +23,7 @@ This module focuses **purely on visual assets** — no stat blocks, no lore writ
 - The module does not even need to be enabled. 
 - Tokens are organized for ease of browsing inside the File Picker.    
 - Portrait images are matched to tokens where possible, making quick character creation easier.  
-- [Token Variant Art](<https://foundryvtt.com/packages/token-variants>)  Helps with swapping token images on the fly. Set the module as a Search Path and it should Cache with your other images.
+- [Token Variant Art](<https://foundryvtt.com/packages/token-variants>)  helps with swapping token images on the fly. Set the module folder as a Search Path and it should cache with your other images.
   
 ---
 
@@ -41,7 +41,7 @@ This module focuses **purely on visual assets** — no stat blocks, no lore writ
 ## **Questions or Feedback?**  
 - Feel free to reach out if you have questions, concerns, or suggestions for improvement.
 - I make these tokens using the PSD from [Foundry VTT](<https://discord.com/channels/170995199584108546/1184176344276406292/1245876103113867294>) and [Photopea](<https://www.photopea.com/>)
-- Here is a video showing my [Amateur Hour Way](<https://www.youtube.com/live/-TM4XusQVUM?si=IjU53_YCWxVwjV7h>) of making tokens. 
+- Here is a video showing my [Amateur Hour](<https://www.youtube.com/live/-TM4XusQVUM?si=IjU53_YCWxVwjV7h>)way of making tokens. 
 ---
 
 
