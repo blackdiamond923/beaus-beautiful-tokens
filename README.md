@@ -5,7 +5,7 @@ A  visual art collection for Foundry VTT, built to enhance your games with dynam
 ---
 
 ## **About This Module**  
-This is art I originally created for personal use across my games. I've packaged it here for others who might find it useful for their games.  
+This is art I originally generated for personal use across my games. I've packaged it here for others who might find it useful for their games.  
 
 This module focuses **purely on visual assets** — no stat blocks, no lore writeups — just a clean, extensive library of ready-to-use tokens and portraits.
 
