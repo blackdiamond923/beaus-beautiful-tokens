@@ -5,7 +5,7 @@ A  visual art collection for Foundry VTT, built to enhance your games with dynam
 ---
 
 ## **About This Module**  
-This is art I originally created for personal use across my games. I've packaged it here for others who might find it useful for their games or storytelling.  
+This is art I originally created for personal use across my games. I've packaged it here for others who might find it useful for their games.  
 
 This module focuses **purely on visual assets** — no stat blocks, no lore writeups — just a clean, extensive library of ready-to-use tokens and portraits.
 
@@ -22,8 +22,8 @@ This module focuses **purely on visual assets** — no stat blocks, no lore writ
 ## **Usage**  
 - Tokens are organized for ease of browsing inside the File Picker.    
 - Portrait images are matched to tokens where possible, making quick character creation easier.  
-- Token Variant Art Helps with swapping token images easier. 
-
+- [Token Variant Art](<https://foundryvtt.com/packages/token-variants>)  Helps with swapping token images on the fly. 
+  
 ---
 
 ## **Notes**  
@@ -33,7 +33,7 @@ This module focuses **purely on visual assets** — no stat blocks, no lore writ
 
 ---
 ## Sizing
-- The dynamic rings when in Standard Fit mode genereally fit at a 1.2 scale and a subject texture of 1. Some fit with 2.4 and a subject scale of 2. 
+- The dynamic rings when in Standard Fit mode  fit at a 1.2 scale and a subject texture of 1. Some fit with 2.4 and a subject scale of 2. 
 
 ---
 
