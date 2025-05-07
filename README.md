@@ -20,9 +20,10 @@ This module focuses **purely on visual assets** — no stat blocks, no lore writ
 ---
 
 ## **Usage**  
+- The module does not even need to be enabled. 
 - Tokens are organized for ease of browsing inside the File Picker.    
 - Portrait images are matched to tokens where possible, making quick character creation easier.  
-- [Token Variant Art](<https://foundryvtt.com/packages/token-variants>)  Helps with swapping token images on the fly. 
+- [Token Variant Art](<https://foundryvtt.com/packages/token-variants>)  Helps with swapping token images on the fly. Set the module as a Search Path and it should Cache with your other images.
   
 ---
 
